@@ -7,7 +7,6 @@ This project is a RESTful API that allows users to track their health and fitnes
 ### Features
 * User authentication and authorization
 * CRUD operations for health data
-* Swagger documentation for API endpoints
 * Integration with third-party fitness trackers
 
 ### TODO
